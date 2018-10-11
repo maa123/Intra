@@ -212,9 +212,28 @@
     Lifetime queries
   </string>
 
+  <string name="num_requests_headline">
+    DNS queries happen when your device looks up the IP address for a domain name
+  </string>
+
+  <string name="num_requests_body">
+    This value shows the total number of DNS queries that your device has performed while Intra was
+    active.  Intra encrypts these queries and sends them to a trusted server to make sure you\'re
+    getting authentic results.
+  </string>
+
   <string name="queries_per_minute"
           description="This text appears under the number of queries protected in the past minute.">
     Recent queries
+  </string>
+
+  <string name="queries_per_minute_headline">
+    DNS queries happen at the beginning of each connection
+  </string>
+
+  <string name="queries_per_minute_body">
+    This value shows the number of DNS queries that your device has performed in the last minute.
+    Loading a complex webpage can require over a hundred DNS queries.
   </string>
 
   <string name="transport_label"
@@ -223,10 +242,28 @@
     Encrypted transport
   </string>
 
+  <string name="transport_headline">
+    Encryption protects your queries from prying eyes
+  </string>
+
+  <string name="transport_body">
+    When you use Intra, your DNS queries are encrypted, so that only you and your DNS server can see
+    what DNS queries you are making.  Intra implements the DNS over HTTPS protocol for encryption.
+  </string>
+
   <string name="insecure_transport_label"
           description="This text appears under the name of the insecure protocol currently in use.  Currently,
   that is always 'dns'.">
     Unencrypted transport
+  </string>
+
+  <string name="insecure_transport_headline">
+    Basic DNS is not encrypted
+  </string>
+
+  <string name="insecure_transport_body">
+    When Intra is disabled, your device uses the basic DNS protocol.  Basic DNS uses the insecure
+    UDP transport, so your DNS queries could be observed or modified by anyone on the network.
   </string>
 
   <string name="server_label"
@@ -234,9 +271,27 @@
     Secure DNS server
   </string>
 
+  <string name="server_headline">
+    You deserve to use a trustworthy DNS server
+  </string>
+
+  <string name="server_body">
+    This field shows the name of the secure DNS server that you\'re using.  You can also change to a
+    different server in the Settings menu.
+  </string>
+
   <string name="insecure_server_label"
           description="This text appears under the name of the insecure server currently in use.">
     Network-provided DNS server
+  </string>
+
+  <string name="insecure_server_headline">
+    Untrustworthy DNS servers can monitor or manipulate your connection
+  </string>
+
+  <string name="insecure_server_body">
+    When Intra is disabled, your device uses whichever DNS server the network operator tells it to
+    use.  This field shows the IP address of your device\'s insecure DNS server.
   </string>
 
   <string name="unknown_server"
