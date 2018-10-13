@@ -30,6 +30,7 @@ import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.nio.ByteBuffer;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -50,6 +51,7 @@ import app.intra.util.UdpPacket;
  */
 public class DnsVpnAdapter extends VpnAdapter implements DnsResponseWriter {
   private static final String LOG_TAG = "DnsVpnAdapter";
+  public String[] Block_Domain_List = {"j.microad.net","spad.i-mobile.co.jp","js1.nend.net"};
 
   // IP constants
   private static final int IP_MIN_HEADER_LENGTH = 20;
@@ -275,6 +277,10 @@ public class DnsVpnAdapter extends VpnAdapter implements DnsResponseWriter {
         DnsUdpQuery dnsRequest = DnsUdpQuery.fromUdpBody(udpPacket.data);
         if (dnsRequest == null) {
           FirebaseCrash.logcat(Log.ERROR, LOG_TAG, "Failed to parse DNS request");
+          continue;
+        }
+        if(Arrays.asList(Block_Domain_List).contains(dnsRequest.name)){
+          dnsRequest = null;
           continue;
         }
         Log.d(
