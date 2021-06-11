@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Gran sistema de resolució global gestionat per Google.</string>
+  <string name="description1">Gran sistema de resolució global gestionat per Cloudflare.</string>
+  <string name="description2">Gran sistema de resolució global d\'IBM i de Packet Clearing House.  Bloqueja els dominis maliciosos.</string>
+  <string name="description3">Proveïdor global de filtres de DNS.  Bloqueja els dominis maliciosos.</string>
+  <string name="description4">Servidor d\'Àustria gestionat per un grup de privadesa sense ànim de lucre.</string>
+  <string name="description5">Servidor dels Països Baixos gestionat per una empresa de programari lliure de DNS.</string>
+  <string name="description6">Gestionat per xTom i altres proveïdors d\'allotjament internacionals.  Utilitza la CDN de Cloudflare.</string>
+  <string name="description7">Servidor del Japó gestionat per un proveïdor d\'Internet.</string>
+  <string name="description8">Servidor de Taiwan operat pel registre de dominis .tw.</string>
+  <string name="description9">Servidor al Regne Unit operat per una empresa britànica d\'allotjament de llocs web.</string>
+  <string name="description10">Servei proporcionat des del Regne Unit i Suïssa per una empresa britànica d\'allotjament i xarxes.</string>
+  <string name="description11">Servidor de Londres (Regne Unit) gestionat per un proveïdor d\'Internet britànic.</string>
+  <string name="description12">Servidor de Nanterre (França) gestionat per una organització sense ànim de lucre francesa que promou la cultura lliure i la diversitat ètnica.</string>
+  <string name="description13">Gestionat per una associació suïssa-alemanya per als drets civils en línia que utilitza servidors a Suïssa, Alemanya i Àustria.</string>
+  <string name="description14">Servidor de Hèlsinki (Finlàndia) gestionat per un proveïdor de serveis alemany sense ànim de lucre.</string>
+  <string name="description15">Gran sistema de resolució global propietat de Cisco.</string>
+  <string name="description16">Operat per una empresa de serveis de TI a Londres i Bulgària.</string>
+  <string name="description17">Operat per l\'autoritat canadenca de registre a Internet.</string>
+</resources>

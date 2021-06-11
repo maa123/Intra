@@ -34,13 +34,18 @@
           android:id="@+id/settings"
           layout="@layout/placeholder"
           android:visibility="gone"/>
+
+      <include
+          android:id="@+id/info_page"
+          layout="@layout/info_page"
+          android:visibility="gone"/>
     </FrameLayout>
   </LinearLayout>
 
   <!-- The NavigationView class supports a header, but not a footer.  To produce the desired footer
   behavior, we use an outer NavigationView that has no menu, but contains a scrollview that
   holds a constraint chain: the real navigation view, a spacer, and the footer elements. -->
-  <app.intra.PadNavigationView
+  <app.intra.ui.PadNavigationView
           android:id="@+id/outer_drawer"
           android:layout_width="wrap_content"
           android:layout_height="match_parent"
@@ -61,6 +66,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="fill_vertical"
                 app:menu="@menu/drawer_menu"
+                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintBottom_toTopOf="@id/nav_space"/>
 
@@ -97,6 +103,6 @@
 
     </androidx.core.widget.NestedScrollView>
 
-  </app.intra.PadNavigationView>
+  </app.intra.ui.PadNavigationView>
 
 </androidx.drawerlayout.widget.DrawerLayout>

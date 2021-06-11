@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Large global resolver operated by Google.</string>
+  <string name="description1">Large global resolver operated by Cloudflare.</string>
+  <string name="description2">Large global resolver from IBM and Packet Clearinghouse.  Blocks malicious domains.</string>
+  <string name="description3">Global DNS filtering provider.  Blocks malicious domains.</string>
+  <string name="description4">Server in Austria operated by a non-profit privacy group.</string>
+  <string name="description5">Server in the Netherlands, operated by an open-source DNS software company.</string>
+  <string name="description6">Operated by xTom and other international hosting providers.  Uses Cloudflare\'s CDN.</string>
+  <string name="description7">Server in Japan operated by an ISP.</string>
+  <string name="description8">Server in Taiwan operated by the .tw domain registry.</string>
+  <string name="description9">The server is in the UK, operated by a British website hosting company.</string>
+  <string name="description10">Served from the UK and Switzerland by a British hosting and networking company.</string>
+  <string name="description11">Server in London, UK, operated by a British ISP.</string>
+  <string name="description12">Server in Nanterre, France, operated by a French non-profit promoting free culture and ethics.</string>
+  <string name="description13">Operated by a Swiss-German association for civil rights online, using servers in Switzerland, Germany or Austria.</string>
+  <string name="description14">Server in Helsinki, Finland, operated by a German non-profit service provider.</string>
+  <string name="description15">Large global resolver owned by Cisco.</string>
+  <string name="description16">Operated by an IT services company in London and Bulgaria.</string>
+  <string name="description17">Operated by the Canadian Internet Registration Authority.</string>
+</resources>

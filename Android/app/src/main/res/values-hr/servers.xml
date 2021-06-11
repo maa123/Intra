@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Veliki globalni pretvarač kojim upravlja Google.</string>
+  <string name="description1">Veliki globalni pretvarač kojim upravlja Cloudflare.</string>
+  <string name="description2">Veliki globalni pretvarač IBM-a i Packet Clearinghousea.  Blokira zlonamjerne domene.</string>
+  <string name="description3">Globalni davatelj usluga filtriranja DNS-a.  Blokira zlonamjerne domene.</string>
+  <string name="description4">Poslužitelj u Austriji kojim upravlja neprofitna grupa za zaštitu privatnosti.</string>
+  <string name="description5">Poslužitelj u Nizozemskoj kojim upravlja softverska tvrtka za DNS otvorenog izvornog kôda.</string>
+  <string name="description6">Poslužiteljom upravlja xTom i drugi međunarodni davatelji usluge hostinga.  Upotrebljava CDN Cloudflarea.</string>
+  <string name="description7">Poslužitelj u Japanu kojim upravlja ISP.</string>
+  <string name="description8">Poslužitelj u Tajvanu kojim upravlja registar domene .tw.</string>
+  <string name="description9">Poslužitelj se nalazi u UK-u, a njime upravlja britanska tvrtka za web-hosting.</string>
+  <string name="description10">Usluge posluživanja pruža britanska tvrtka za hosting i umrežavanje putem poslužitelja u UK-u i Švicarskoj.</string>
+  <string name="description11">Poslužitelj u Londonu u UK-u kojim upravlja britanski ISP.</string>
+  <string name="description12">Poslužitelj u Nanterreu u Francuskoj kojim upravlja francuska neprofitna organizacija koja promiče besplatnu kulturu i etiku.</string>
+  <string name="description13">Upravitelj je švicarsko-njemačko društvo za građanska prava na internetu, a koristi poslužitelje u Švicarskoj, Njemačkoj ili Austriji.</string>
+  <string name="description14">Poslužitelj u Helsinkiju u Finskoj kojim upravlja njemački neprofitni davatelj usluga.</string>
+  <string name="description15">Veliki globalni DNS klijent u vlasništvu Cisca.</string>
+  <string name="description16">Uslugom upravlja tvrtka za IT usluge u Londonu i Bugarskoj.</string>
+  <string name="description17">Uslugom upravlja tvrtka Canadian Internet Registration Authority.</string>
+</resources>

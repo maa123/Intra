@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Велики глобални разрешивач којим управља Google.</string>
+  <string name="description1">Велики глобални разрешивач којим управља Cloudflare.</string>
+  <string name="description2">Велики глобални разрешивач IBM-а и Packet Clearinghouse-а.  Блокира злонамерне домене.</string>
+  <string name="description3">Глобални добављач услуге филтрирања DNS-ова.  Блокира злонамерне домене.</string>
+  <string name="description4">Сервер у Аустрији којим управља непрофитна група за приватност.</string>
+  <string name="description5">Сервер у Холандији којим управља компанија за DNS софтвер отвореног кода.</string>
+  <string name="description6">Сервер којим управља xTom и други међународни добављачи услуге хостинга.  Користи Cloudflare-ов CDN.</string>
+  <string name="description7">Сервер у Јапану којим управља интернет провајдер.</string>
+  <string name="description8">Сервер на Тајвану којим управља регистратор .tw домена.</string>
+  <string name="description9">Сервер у УК којим управља британско предузеће за хостовање веб-сајтова.</string>
+  <string name="description10">Услугу из УК и Швајцарске пружа британско предузеће за хостовање и умрежавање.</string>
+  <string name="description11">Сервер у Лондону (Уједињено Краљевство) којим управља британски интернет провајдер.</string>
+  <string name="description12">Сервер у Нантеру (Француска) којим управља француска непрофитна организација која промовише слободну културу и етику.</string>
+  <string name="description13">Овим управља швајцарско-немачко удружење за грађанска права онлајн, а користе се сервери у Швајцарској, Немачкој или Аустрији.</string>
+  <string name="description14">Сервер у Хелсинкију (Финска) којим управља немачки непрофитни добављач услуге.</string>
+  <string name="description15">Велики глобални разрешивач чији је власник Cisco.</string>
+  <string name="description16">Услугом управља предузеће за ИТ услуге у Лондону и Бугарској.</string>
+  <string name="description17">Услугом управља Canadian Internet Registration Authority.</string>
+</resources>

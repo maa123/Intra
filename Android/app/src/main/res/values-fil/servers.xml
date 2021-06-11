@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Malaking pandaigdigang resolver na pinapatakbo ng Google.</string>
+  <string name="description1">Malaking pandaigdigang resolver na pinapatakbo ng Cloudflare.</string>
+  <string name="description2">Malaking pandaigdigang resolver mula sa IBM at Packet Clearinghouse.  Bina-block ang mga nakakapinsalang domain.</string>
+  <string name="description3">Pandaigdigang provider para sa pag-filter ng DNS.  Bina-block ang mga nakakapinsalang domain.</string>
+  <string name="description4">Server sa Austria na pinapatakbo ng isang non-profit na grupo sa privacy.</string>
+  <string name="description5">Server sa Netherlands, na pinapatakbo ng isang open-source DNS software na kumpanya.</string>
+  <string name="description6">Pinapatakbo ng xTom at ng iba pang internasyonal na hosting provider.  Gumagamit ng CDN ng Cloudflare.</string>
+  <string name="description7">Server sa Japan na pinapatakbo ng isang ISP.</string>
+  <string name="description8">Server sa Taiwan na pinapatakbo ng .tw domain na registry.</string>
+  <string name="description9">Server sa UK na pinapatakbo ng British na kumpanyang nagho-host ng website.</string>
+  <string name="description10">Inihahatid mula sa UK at Switzerland ng British na kumpanya ng pag-host at networking.</string>
+  <string name="description11">Server sa London, UK, na pinapatakbo ng British na ISP.</string>
+  <string name="description12">Server sa Nanterre, France, na pinapatakbo ng French na non-profit na nagtataguyod ng malayang kultura at etika.</string>
+  <string name="description13">Pinapatakbo ng Swiss-German na association para sa mga karapatang sibil online, gamit ang mga server sa Switzerland, Germany, o Austria.</string>
+  <string name="description14">Server sa Helsinki, Finland, na pinapatakbo ng German na non-profit na service provider.</string>
+  <string name="description15">Malaking pandaigdigang resolver na pagmamay-ari ng Cisco.</string>
+  <string name="description16">Pinapatakbo ng kumpanya ng mga serbisyo ng IT sa London at Bulgaria.</string>
+  <string name="description17">Pinapatakbo ng Canadian Internet Registration Authority.</string>
+</resources>

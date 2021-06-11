@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="description0">Rezolvator de dimensiuni mari la nivel global gestionat de Google.</string>
+  <string name="description1">Rezolvator de dimensiuni mari la nivel global gestionat de Cloudflare.</string>
+  <string name="description2">Rezolvator de dimensiuni mari la nivel global de la IBM și Packet Clearinghouse.  Blochează domeniile rău-intenționate.</string>
+  <string name="description3">Furnizor de servicii de filtrare DNS la nivel global.  Blochează domeniile rău-intenționate.</string>
+  <string name="description4">Server în Austria gestionat de un grup privat nonprofit.</string>
+  <string name="description5">Server în Țările de Jos, gestionat de o companie de software DNS open source.</string>
+  <string name="description6">Gestionat de xTom și alți furnizori de servicii de găzduire internaționali.  Folosește CDN de la Cloudflare.</string>
+  <string name="description7">Server în Japonia gestionat de un ISP.</string>
+  <string name="description8">Server în Taiwan gestionat de registrul de domenii .tw.</string>
+  <string name="description9">Server în Regatul Unit, gestionat de o companie britanică de servicii de găzduire pentru site-uri.</string>
+  <string name="description10">Servit din Regatul Unit și Elveția de o companie de găzduire și servicii de rețele.</string>
+  <string name="description11">Server în Londra, Regatul Unit, gestionat de un ISP britanic.</string>
+  <string name="description12">Server în Nanterre, Franța, gestionat de o organizație non-profit franceză care promovează cultura gratuită.</string>
+  <string name="description13">Gestionat de o asociație elvețiană - germană pentru drepturi civile online, care folosește servere în Elveția, Germania sau Austria.</string>
+  <string name="description14">Server în Helsinki, Finlanda, gestionat de un furnizor de servicii non-profit.</string>
+  <string name="description15">Rezolvator de dimensiuni mari la nivel global deținut de Cisco.</string>
+  <string name="description16">Gestionat de o companie de servicii IT din Londra și din Bulgaria.</string>
+  <string name="description17">Gestionat de Autoritatea canadiană de înregistrare a internetului (CIRA).</string>
+</resources>
